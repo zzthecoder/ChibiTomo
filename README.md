@@ -17,7 +17,7 @@ Stay focused with a friendly chibi avatar and simple, beautiful UI.
 
 ### 📦 Installation
 1. Download the installer:  
-   👉 [**ChibiTomo-Setup.exe**](/releases/tag/v1.0.0)
+   👉 [Download](https://github.com/zzthecoder/ChibiTomo/releases/tag/v1.0.0)
 2. Run the installer and follow the steps.
 3. Launch **ChibiTomo** from your desktop shortcut or Start menu.
 
@@ -28,7 +28,7 @@ Stay focused with a friendly chibi avatar and simple, beautiful UI.
 ### 👨‍💻 Author
 **Marzook Mansoor**  
 📧 marzookmansoor321@gmail.com  
-💻 [GitHub Profile](https://github.com/marzookmansoor-thecoder)
+💻 [GitHub Profile](https://github.com/zzthecoder)
 
 ---
 
