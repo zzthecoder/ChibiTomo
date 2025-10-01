@@ -3,7 +3,10 @@
 Welcome to the first version of **ChibiTomo**, a minimal, cute desktop Pomodoro companion 🕒✨  
 Stay focused with a friendly chibi avatar and simple, beautiful UI.
 
-👉 [Download](https://github.com/zzthecoder/ChibiTomo/releases/tag/v1.0.0)
+👉 [Download](https://github.com/zzthecoder/ChibiTomo/releases/tag/v1.2)
+- IMPORTANT: IT WILL SAY the program contains a virus, but it is a false positive due to it not being windows certified. NO VIRUSES
+- Click **More info → Run anyway**.
+
 ---
 
 ### 🌟 Features
@@ -25,7 +28,7 @@ Stay focused with a friendly chibi avatar and simple, beautiful UI.
 
 ### 📦 Installation
 1. Download the installer:  
-   👉 [Download](https://github.com/zzthecoder/ChibiTomo/releases/tag/v1.0.0)
+   👉 [Download](https://github.com/zzthecoder/ChibiTomo/releases/tag/v1.2)
 2. Run the installer and follow the steps.
 3. Launch **ChibiTomo** from your desktop shortcut or Start menu.
 
