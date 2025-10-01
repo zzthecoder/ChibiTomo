@@ -1,4 +1,4 @@
-🎉 **ChibiTomo v1.0.0** — First Public Release
+🎉 **ChibiTomo v1.2
 
 Welcome to the first version of **ChibiTomo**, a minimal, cute desktop Pomodoro companion 🕒✨  
 Stay focused with a friendly chibi avatar and simple, beautiful UI.
